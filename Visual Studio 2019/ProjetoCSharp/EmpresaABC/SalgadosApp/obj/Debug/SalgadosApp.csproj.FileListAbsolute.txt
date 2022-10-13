@@ -1,0 +1,30 @@
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\Debug\SalgadosApp.exe.config
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\Debug\SalgadosApp.exe
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\Debug\SalgadosApp.pdb
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.csproj.AssemblyReference.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.frmJanela.resources
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.Properties.Resources.resources
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.csproj.GenerateResource.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.csproj.CoreCompileInputs.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.exe
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.pdb
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\Debug\SalgadosApp.exe.config
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\Debug\SalgadosApp.exe
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\Debug\SalgadosApp.pdb
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.csproj.AssemblyReference.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.frmJanela.resources
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.Properties.Resources.resources
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.csproj.GenerateResource.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.csproj.CoreCompileInputs.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.exe
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.pdb
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCS\SalgadosApp\bin\Debug\SalgadosApp.exe.config
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCS\SalgadosApp\bin\Debug\SalgadosApp.exe
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCS\SalgadosApp\bin\Debug\SalgadosApp.pdb
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCS\SalgadosApp\obj\Debug\SalgadosApp.csproj.AssemblyReference.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCS\SalgadosApp\obj\Debug\SalgadosApp.frmJanela.resources
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCS\SalgadosApp\obj\Debug\SalgadosApp.Properties.Resources.resources
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCS\SalgadosApp\obj\Debug\SalgadosApp.csproj.GenerateResource.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCS\SalgadosApp\obj\Debug\SalgadosApp.csproj.CoreCompileInputs.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCS\SalgadosApp\obj\Debug\SalgadosApp.exe
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCS\SalgadosApp\obj\Debug\SalgadosApp.pdb

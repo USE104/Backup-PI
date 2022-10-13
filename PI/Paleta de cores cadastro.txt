@@ -1,0 +1,7 @@
+Paleta de cores 
+
+#7A86B6   (menu-area e formularios)
+#DDD    (hover do menu-area)
+black  (cor da fonte)
+white  (cor da fone)
+

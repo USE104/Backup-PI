@@ -1,0 +1,36 @@
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.exe.config
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.exe
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.pdb
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.AssemblyReference.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmJanela.resources
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.Properties.Resources.resources
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.GenerateResource.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.CoreCompileInputs.cache
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.exe
+C:\Users\erik.coliveira4\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.pdb
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.exe.config
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.exe
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.pdb
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.AssemblyReference.cache
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmJanela.resources
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmDadospessoais.resources
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.Properties.Resources.resources
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.GenerateResource.cache
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.CoreCompileInputs.cache
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.exe
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.pdb
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmCalculaPreco.resources
+C:\Users\erik.coliveira4\Documents\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmComponentes.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.exe.config
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.exe
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.pdb
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.AssemblyReference.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmJanela.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmCalculaPreco.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmComponentes.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmDadospessoais.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.Properties.Resources.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.GenerateResource.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.CoreCompileInputs.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.exe
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\G1\Visual Studio 2019\ProjetoCSharp\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.pdb
